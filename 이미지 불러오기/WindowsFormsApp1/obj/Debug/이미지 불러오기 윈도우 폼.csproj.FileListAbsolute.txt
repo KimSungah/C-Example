@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\C#\c#공부\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\Desktop\C#\c#공부\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\C#\c#공부\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\Desktop\C#\c#공부\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\이미지 불러오기 윈도우 폼.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\c#공부\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\USER\Desktop\C#\c#공부\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\Desktop\C#\c#공부\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\이미지 불러오기 윈도우 폼.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C#\c#공부\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\이미지 불러오기 윈도우 폼.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\c#공부\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\Desktop\C#\c#공부\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
