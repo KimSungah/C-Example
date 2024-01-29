@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\C# 공부\Exam_TCPIP\Server\Server\bin\Debug\Server.exe.config
+C:\Users\USER\source\repos\C# 공부\Exam_TCPIP\Server\Server\bin\Debug\Server.exe
+C:\Users\USER\source\repos\C# 공부\Exam_TCPIP\Server\Server\bin\Debug\Server.pdb
+C:\Users\USER\source\repos\C# 공부\Exam_TCPIP\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\C# 공부\Exam_TCPIP\Server\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\USER\source\repos\C# 공부\Exam_TCPIP\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\USER\source\repos\C# 공부\Exam_TCPIP\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\C# 공부\Exam_TCPIP\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\C# 공부\Exam_TCPIP\Server\Server\obj\Debug\Server.exe
+C:\Users\USER\source\repos\C# 공부\Exam_TCPIP\Server\Server\obj\Debug\Server.pdb
